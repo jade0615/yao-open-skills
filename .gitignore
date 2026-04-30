@@ -8,3 +8,7 @@ skills/**/_skill_doctor_quarantine/
 skills/**/_skill_doctor_deleted/
 skills/**/.pytest_cache/
 skills/**/node_modules/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
